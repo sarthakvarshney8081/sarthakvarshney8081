@@ -16,6 +16,7 @@
 
 <p align="center">
   <a href="https://www.docker.com/captains/sarthak-varshney/" target="_blank"><img src="https://img.shields.io/badge/Docker-Captain-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
+  <a href="https://www.docker.com/contributors/sarthak-varshney/" target="_blank"><img src="https://img.shields.io/badge/Docker-Contributor-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/></a>
   <a href="https://mvp.alibabacloud.com/mvp/detail/366" target="_blank"><img src="https://img.shields.io/badge/Alibaba%20Cloud-MVP%202×-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white"/></a>
   <a href="https://www.c-sharpcorner.com/members/sarthak-varshney" target="_blank"><img src="https://img.shields.io/badge/C%23%20Corner-MVP%205×-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/></a>
 </p>
@@ -30,7 +31,7 @@
 
 I'm **Sarthak Varshney**, a Cloud & DevOps consultant, author, and educator based in **Delhi, India 🇮🇳**. I hold a Master's degree in Computer Applications and have spent years simplifying technology through hands-on learning, workshops, and open-source contributions.
 
-- 🐳 Recognized **Docker Captain** — part of Docker's global community of experts
+- 🐳 Recognized **Docker Captain** & **Docker Contributor** — part of Docker's global community of experts
 - ☁️ **2× Alibaba Cloud MVP** and **5× C# Corner MVP**
 - 🏗️ Founder of **[DockerHOL](https://dockerhol.com)** — a free browser-based Docker learning platform
 - 📘 Author of **"Mastering Docker: A Comprehensive Guide"** and **"Mastering Docker Swarm"** (C# Corner)
@@ -147,7 +148,8 @@ I'm **Sarthak Varshney**, a Cloud & DevOps consultant, author, and educator base
 | 🏆 Achievement | 🔗 Profile |
 |---|---|
 | 🐳 Docker Captain | [docker.com/captains/sarthak-varshney](https://www.docker.com/captains/sarthak-varshney/) |
-| ☁️ Alibaba Cloud MVP | [mvp.alibabacloud.com](https://mvp.alibabacloud.com/mvp/detail/366) |
+| 🐳 Docker Contributor | [docker.com/contributors/sarthak-varshney](https://www.docker.com/contributors/sarthak-varshney/) |
+| ☁️ Alibaba Cloud MVP (Gold) | [mvp.alibabacloud.com/mvp/detail/366](https://mvp.alibabacloud.com/mvp/detail/366) |
 | 📝 C# Corner MVP 5× | [c-sharpcorner.com](https://www.c-sharpcorner.com/members/sarthak-varshney) |
 | 🎓 Credly Badges | [credly.com/users/sarthakvarshney8081](https://www.credly.com/users/sarthakvarshney8081/badges) |
 | 🎓 Microsoft Learn | [learn.microsoft.com](https://learn.microsoft.com/en-us/users/sarthakvarshney/) |
