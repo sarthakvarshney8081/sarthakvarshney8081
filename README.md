@@ -110,18 +110,17 @@ I'm **Sarthak Varshney**, a Cloud & DevOps consultant, author, and educator base
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarthakvarshney8081&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="Sarthak's GitHub Stats" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sarthakvarshney8081&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakvarshney8081&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakvarshney8081&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sarthakvarshney8081&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sarthakvarshney8081&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
 
 ---
 
