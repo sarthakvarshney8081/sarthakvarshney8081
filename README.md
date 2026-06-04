@@ -32,7 +32,7 @@
 I'm **Sarthak Varshney**, a Cloud & DevOps consultant, author, and educator based in **Delhi, India 🇮🇳**. I hold a Master's degree in Computer Applications and have spent years simplifying technology through hands-on learning, workshops, and open-source contributions.
 
 - 🐳 Recognized **Docker Captain** & **Docker Contributor** — part of Docker's global community of experts
-- ☁️ [**2× Alibaba Cloud MVP**](https://mvp.alibabacloud.com/mvp/detail/366) and **5× C# Corner MVP** | 🐳 [**Docker Captain**](https://www.docker.com/captains/sarthak-varshney/) | [**Docker Contributor**](https://www.docker.com/contributors/sarthak-varshney/)
+- ☁️ [**2× Alibaba Cloud MVP**](https://mvp.alibabacloud.com/mvp/detail/366) and **5× C# Corner MVP** | 🐳 [**Docker Captain**](https://www.docker.com/captains/sarthak-varshney/)
 - 🏗️ Founder of **[DockerHOL](https://dockerhol.com)** — a free browser-based Docker learning platform
 - 📘 Author of **"Mastering Docker: A Comprehensive Guide"** and **"Mastering Docker Swarm"** (C# Corner)
 - 🎤 Speaker at Indian universities and tech conferences
