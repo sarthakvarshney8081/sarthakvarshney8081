@@ -134,6 +134,12 @@ I'm **Sarthak Varshney**, a Cloud & DevOps consultant, author, and educator base
 </p>
 
 ---
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/sarthakvarshney8081/sarthakvarshney8081/output/activity-graph.svg"
+    alt="Contribution Activity Graph"
+  />
+</p>
 
 ## 🏅 Achievements & Badges
 
