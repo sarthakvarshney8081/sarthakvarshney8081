@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://sarthakvarshney.in" target="_blank"><img src="https://img.shields.io/badge/Website-sarthakvarshney.in-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="https://linkedin.com/in/sarthakvarshney8081" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-sarthakvarshney8081-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/Sarthak_v2" target="_blank"><img src="https://img.shields.io/badge/X-@Sarthak__v2-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://x.com/Sarthak_v2" target="_blank"><img src="https://img.shields.io/badge/X-@Sarthak__v2-000000?style=for-the-badge&logo=&logoColor=white"/></a>
   <a href="https://www.youtube.com/@Sarthakvarshney8081" target="_blank"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
