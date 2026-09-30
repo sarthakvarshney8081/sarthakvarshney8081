@@ -37,7 +37,7 @@ I'm **Sarthak Varshney**, a Cloud & DevOps consultant, author, and educator base
 - 📘 Author of **"Mastering Docker: A Comprehensive Guide"** and **"Mastering Docker Swarm"** (C# Corner)
 - 🎤 Speaker at Indian universities and tech conferences
 - ✍️ Active author on **C# Corner** with the *Docker Zero to Hero* series
-- 💼 Associate Consultant — specializing in Cloud, DevOps & Containerization
+- 💼 Consultant — specializing in Cloud, DevOps & Containerization
 
 ---
 
