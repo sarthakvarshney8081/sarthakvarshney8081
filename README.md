@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm **Sarthak Varshney**
 
-### 🐳 Docker Captain | ☁️ Alibaba Cloud MVP (2×) | 🏆 C# Corner MVP (5×)
+### 🐳 Docker Captain (2×) | ☁️ Alibaba Cloud MVP (3×) | 🏆 C# Corner MVP (6×)
 ### ✍️ Author | 🎤 Speaker | 💼 Consultant | 🚀 Cloud & DevOps Expert
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2496ED&center=true&vCenter=true&random=false&width=600&lines=Docker+Captain+%F0%9F%90%B3;Cloud+%26+DevOps+Consultant;Author+%7C+Speaker+%7C+Educator;Building+DockerHOL+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
@@ -126,20 +126,6 @@ I'm **Sarthak Varshney**, a Cloud & DevOps consultant, author, and educator base
 </p>
 
 ---
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthakvarshney8081&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
-</p>
-
----
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/sarthakvarshney8081/sarthakvarshney8081/output/activity-graph.svg"
-    alt="Contribution Activity Graph"
-  />
-</p>
 
 ## 🏅 Achievements & Badges
 
