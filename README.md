@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm **Sarthak Varshney**
 
-### 🐳 Docker Captain (2×) | ☁️ Alibaba Cloud MVP (3×) | 🏆 C# Corner MVP (6×)
+### 🐳 Docker Captain (2×) | ☁️ Alibaba Cloud MVP (3×) | 🏆 Devsocial MVP (6×)
 ### ✍️ Author | 🎤 Speaker | 💼 Consultant | 🚀 Cloud & DevOps Expert
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2496ED&center=true&vCenter=true&random=false&width=600&lines=Docker+Captain+%F0%9F%90%B3;Cloud+%26+DevOps+Consultant;Author+%7C+Speaker+%7C+Educator;Building+DockerHOL+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
@@ -18,7 +18,7 @@
   <a href="https://www.docker.com/captains/sarthak-varshney/" target="_blank"><img src="https://img.shields.io/badge/Docker-Captain-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
   <a href="https://www.docker.com/contributors/sarthak-varshney/" target="_blank"><img src="https://img.shields.io/badge/Docker-Contributor-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/></a>
   <a href="https://mvp.alibabacloud.com/mvp/detail/366" target="_blank"><img src="https://img.shields.io/badge/Alibaba%20Cloud-MVP%203×-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white"/></a>
-  <a href="https://www.c-sharpcorner.com/members/sarthak-varshney" target="_blank"><img src="https://img.shields.io/badge/C%23%20Corner-MVP%206×-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/></a>
+  <a href="https://devsocial.io/members/sarthak-Varshney" target="_blank"><img src="https://img.shields.io/badge/C%23%20Corner-MVP%206×-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/></a>
 </p>
 
 </div>
@@ -32,11 +32,11 @@
 I'm **Sarthak Varshney**, a Cloud & DevOps consultant, author, and educator based in **Delhi, India 🇮🇳**. I hold a Master's degree in Computer Applications and have spent years simplifying technology through hands-on learning, workshops, and open-source contributions.
 
 - 🐳 Recognized **Docker Captain** & **Docker Contributor** — part of Docker's global community of experts
-- ☁️ [**3× Alibaba Cloud MVP**](https://mvp.alibabacloud.com/mvp/detail/366) and [**6× C# Corner MVP**](https://devsocial.io/members/sarthak-Varshney) | 🐳 [**Docker Captain**](https://www.docker.com/captains/sarthak-varshney/)
+- ☁️ [**3× Alibaba Cloud MVP**](https://mvp.alibabacloud.com/mvp/detail/366) and [**6× Devsocial MVP**](https://devsocial.io/members/sarthak-Varshney) | 🐳 [**Docker Captain**](https://www.docker.com/captains/sarthak-varshney/)
 - 🏗️ Founder of **[DockerHOL](https://dockerhol.com)** — a free browser-based Docker learning platform
 - 📘 Author of **"Mastering Docker: A Comprehensive Guide"** and **"Mastering Docker Swarm"** (C# Corner)
 - 🎤 Speaker at Indian universities and tech conferences
-- ✍️ Active author on **C# Corner** with the *Docker Zero to Hero* series
+- ✍️ Active author on **Devsocial** with the *Docker Zero to Hero* series
 - 💼 Consultant — specializing in Cloud, DevOps & Containerization
 
 ---
@@ -49,7 +49,7 @@ I'm **Sarthak Varshney**, a Cloud & DevOps consultant, author, and educator base
 |---|---|
 | [🐳 DockerHOL](https://dockerhol.com) | Free browser-based Docker Hands-On Learning platform with badge verification |
 | [🌐 SafeConverts.com](https://safeconverts.com) | Online tools & converters |
-| [📚 C# Corner Articles](https://www.c-sharpcorner.com/members/sarthak-varshney) | 100+ technical articles on Docker, Cloud & DevOps |
+| [📚 Devsocial Articles](https://devsocial.io/members/sarthak-Varshney) | 225+ technical articles on Docker, Cloud & DevOps |
 | [🌍 Personal Website](https://sarthakvarshney.in) | Blog, articles, ebooks & speaking info |
 
 </div>
@@ -141,7 +141,7 @@ I'm **Sarthak Varshney**, a Cloud & DevOps consultant, author, and educator base
 |---|---|
 | 🐳 Docker Captain | [docker.com/captains/sarthak-varshney](https://www.docker.com/captains/sarthak-varshney/) |
 | ☁️ Alibaba Cloud MVP (Gold) | [mvp.alibabacloud.com/mvp/detail/366](https://mvp.alibabacloud.com/mvp/detail/366) |
-| 📝 C# Corner MVP 5× | [c-sharpcorner.com](https://www.c-sharpcorner.com/members/sarthak-varshney) |
+| 📝 Devsocial MVP 6× | [devsocial.io](https://devsocial.io/members/sarthak-Varshney) |
 | 🎓 Credly Badges | [credly.com/users/sarthakvarshney8081](https://www.credly.com/users/sarthakvarshney8081/badges) |
 | 🎓 Microsoft Learn | [learn.microsoft.com](https://learn.microsoft.com/en-us/users/sarthakvarshney/) |
 
@@ -152,7 +152,7 @@ I'm **Sarthak Varshney**, a Cloud & DevOps consultant, author, and educator base
 ## ✍️ Latest Articles (*Docker Zero to Hero Series*)
 
 <!-- BLOG-POST-LIST:START -->
-> 📌 Check out my full article list on [C# Corner](https://www.c-sharpcorner.com/members/sarthak-varshney) and [sarthakvarshney.in/articles](https://sarthakvarshney.in/articles/)
+> 📌 Check out my full article list on [Devsocial](https://devsocial.io/members/sarthak-Varshney) and [sarthakvarshney.in/articles](https://sarthakvarshney.in/articles/)
 <!-- BLOG-POST-LIST:END -->
 
 **Topics I write about:**
